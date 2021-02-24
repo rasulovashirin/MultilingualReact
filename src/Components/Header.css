@@ -1,0 +1,14 @@
+.header {
+  padding: 5px;
+  background-color: rgba(34, 34, 34, 0.856);
+  color:#fff;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-text {
+  font-family: 'Tangerine', cursive;
+  font-size: 50px;
+}
