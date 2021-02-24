@@ -12,3 +12,6 @@
   font-family: 'Tangerine', cursive;
   font-size: 50px;
 }
+.active-lang {
+  color:rgb(250, 233, 140);
+}
